@@ -23,7 +23,7 @@ setuptools.setup(
     name="argpy",
     license="MIT",
     description="A high-level shorthand argument parser for Python 3 or above",
-    version="v0.0.1",
+    version="v0.0.2",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/khunspoonzi/argpy",
